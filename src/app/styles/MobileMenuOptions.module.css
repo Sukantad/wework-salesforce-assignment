@@ -1,0 +1,48 @@
+.menubar{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background-color: #F2FBF9;
+    top: 0;
+    left: 0;
+    overflow: none;
+}
+
+.container{
+    width: 252px;
+    margin: auto;
+    margin-top: 84px;
+}
+
+.userprofile{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--color-light-gray) ;
+}
+
+.user>:first-child {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.user>:last-child {
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.menulist{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0px;
+    border-bottom: 1px solid #E9EBEB ;
+}
+
+.closebutton{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
