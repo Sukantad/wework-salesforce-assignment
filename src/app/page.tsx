@@ -5,6 +5,7 @@ import { useState } from 'react'
 import { MobileMenuOptions } from './components/MobileMenuOptions'
 import { DealRoom } from './components/DealRoom'
 import { ProjectScope } from './components/ProjectScope'
+import { CompanyProfile } from './components/CompanyProfile'
 
 
 export default function Home() {
@@ -24,6 +25,7 @@ export default function Home() {
       <NavBar handleShow={handleShow} />
       <DealRoom/>
       <ProjectScope/>
+      <CompanyProfile/>
       {toggleMenu && <MobileMenuOptions handleClose={handleClose} />}
     </main>
   )

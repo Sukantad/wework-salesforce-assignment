@@ -820,6 +820,84 @@
         "async": false
       }
     },
+    "(app-client)/./src/app/assets/images/del.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/del.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/del.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/del.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/downloads.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/downloads.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/downloads.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/downloads.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/downloadwork.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/downloadwork.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/downloadwork.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/downloadwork.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/assets/images/help.svg": {
       "*": {
         "id": "(sc_client)/./src/app/assets/images/help.svg",
@@ -839,6 +917,32 @@
       },
       "default": {
         "id": "(sc_client)/./src/app/assets/images/help.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/hide.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/hide.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/hide.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/hide.svg",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -898,6 +1002,32 @@
         "async": false
       }
     },
+    "(app-client)/./src/app/assets/images/messages.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/messages.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/messages.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/messages.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/assets/images/notification.svg": {
       "*": {
         "id": "(sc_client)/./src/app/assets/images/notification.svg",
@@ -943,6 +1073,32 @@
       },
       "default": {
         "id": "(sc_client)/./src/app/assets/images/openmenu.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/pdf.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/pdf.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/pdf.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/pdf.svg",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -1028,6 +1184,110 @@
         "async": false
       }
     },
+    "(app-client)/./src/app/assets/images/searchminus.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/searchminus.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/searchminus.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/searchminus.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/searchplus.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/searchplus.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/searchplus.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/searchplus.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/send.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/send.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/send.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/send.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/share.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/share.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/share.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/share.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/assets/images/skewbg.png": {
       "*": {
         "id": "(sc_client)/./src/app/assets/images/skewbg.png",
@@ -1054,6 +1314,32 @@
         "async": false
       }
     },
+    "(app-client)/./src/app/assets/images/threedots.svg": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/threedots.svg",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/threedots.svg",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/threedots.svg",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/assets/images/wework1.png": {
       "*": {
         "id": "(sc_client)/./src/app/assets/images/wework1.png",
@@ -1073,6 +1359,58 @@
       },
       "default": {
         "id": "(sc_client)/./src/app/assets/images/wework1.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/weworkimg.png": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/weworkimg.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/weworkimg.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/weworkimg.png",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/assets/images/weworklogo.png": {
+      "*": {
+        "id": "(sc_client)/./src/app/assets/images/weworklogo.png",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/assets/images/weworklogo.png",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/assets/images/weworklogo.png",
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
@@ -3020,6 +3358,13 @@
         "static/css/app/page.css"
       ]
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\styles\\companyprofile.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\CloseButton.svg": {
       "id": "(app-client)/./src/app/assets/images/CloseButton.svg",
       "name": "*",
@@ -3092,6 +3437,78 @@
       ],
       "async": false
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\del.svg": {
+      "id": "(app-client)/./src/app/assets/images/del.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\del.svg#": {
+      "id": "(app-client)/./src/app/assets/images/del.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\del.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/del.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloads.svg": {
+      "id": "(app-client)/./src/app/assets/images/downloads.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloads.svg#": {
+      "id": "(app-client)/./src/app/assets/images/downloads.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloads.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/downloads.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloadwork.svg": {
+      "id": "(app-client)/./src/app/assets/images/downloadwork.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloadwork.svg#": {
+      "id": "(app-client)/./src/app/assets/images/downloadwork.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\downloadwork.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/downloadwork.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\help.svg": {
       "id": "(app-client)/./src/app/assets/images/help.svg",
       "name": "*",
@@ -3110,6 +3527,30 @@
     },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\help.svg#default": {
       "id": "(app-client)/./src/app/assets/images/help.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\hide.svg": {
+      "id": "(app-client)/./src/app/assets/images/hide.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\hide.svg#": {
+      "id": "(app-client)/./src/app/assets/images/hide.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\hide.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/hide.svg",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -3164,6 +3605,30 @@
       ],
       "async": false
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\messages.svg": {
+      "id": "(app-client)/./src/app/assets/images/messages.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\messages.svg#": {
+      "id": "(app-client)/./src/app/assets/images/messages.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\messages.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/messages.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\notification.svg": {
       "id": "(app-client)/./src/app/assets/images/notification.svg",
       "name": "*",
@@ -3206,6 +3671,30 @@
     },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\openmenu.svg#default": {
       "id": "(app-client)/./src/app/assets/images/openmenu.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\pdf.svg": {
+      "id": "(app-client)/./src/app/assets/images/pdf.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\pdf.svg#": {
+      "id": "(app-client)/./src/app/assets/images/pdf.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\pdf.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/pdf.svg",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -3284,6 +3773,102 @@
       ],
       "async": false
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchminus.svg": {
+      "id": "(app-client)/./src/app/assets/images/searchminus.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchminus.svg#": {
+      "id": "(app-client)/./src/app/assets/images/searchminus.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchminus.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/searchminus.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchplus.svg": {
+      "id": "(app-client)/./src/app/assets/images/searchplus.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchplus.svg#": {
+      "id": "(app-client)/./src/app/assets/images/searchplus.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\searchplus.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/searchplus.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\send.svg": {
+      "id": "(app-client)/./src/app/assets/images/send.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\send.svg#": {
+      "id": "(app-client)/./src/app/assets/images/send.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\send.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/send.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\share.svg": {
+      "id": "(app-client)/./src/app/assets/images/share.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\share.svg#": {
+      "id": "(app-client)/./src/app/assets/images/share.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\share.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/share.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\skewbg.png": {
       "id": "(app-client)/./src/app/assets/images/skewbg.png",
       "name": "*",
@@ -3308,6 +3893,30 @@
       ],
       "async": false
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\threedots.svg": {
+      "id": "(app-client)/./src/app/assets/images/threedots.svg",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\threedots.svg#": {
+      "id": "(app-client)/./src/app/assets/images/threedots.svg",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\threedots.svg#default": {
+      "id": "(app-client)/./src/app/assets/images/threedots.svg",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\wework1.png": {
       "id": "(app-client)/./src/app/assets/images/wework1.png",
       "name": "*",
@@ -3326,6 +3935,54 @@
     },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\wework1.png#default": {
       "id": "(app-client)/./src/app/assets/images/wework1.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworkimg.png": {
+      "id": "(app-client)/./src/app/assets/images/weworkimg.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworkimg.png#": {
+      "id": "(app-client)/./src/app/assets/images/weworkimg.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworkimg.png#default": {
+      "id": "(app-client)/./src/app/assets/images/weworkimg.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworklogo.png": {
+      "id": "(app-client)/./src/app/assets/images/weworklogo.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworklogo.png#": {
+      "id": "(app-client)/./src/app/assets/images/weworklogo.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\weworklogo.png#default": {
+      "id": "(app-client)/./src/app/assets/images/weworklogo.png",
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"

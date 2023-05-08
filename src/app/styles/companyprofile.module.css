@@ -1,0 +1,262 @@
+.profile {
+  display: flex;
+  margin-top: 35px;
+  gap: 20px;
+}
+.profileleft {
+  background-color: #ffffff;
+  width: 190px;
+  height: 300px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  color: #7b8786;
+}
+
+.textv2 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #233735;
+}
+
+.profileright {
+  width: 100%;
+}
+
+.profileleft {
+  font-size: 12px;
+  font-weight: 400;
+  padding: 20px;
+}
+
+.separator {
+  width: 100%;
+  border: 1px solid #e9ebeb;
+}
+.profileleft p{
+  color: #7B8786;
+  font-weight: 400;
+}
+
+.active{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.profileheader {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profileoptions {
+  display: flex;
+  width: 132px;
+  border: 1px solid var(--primary-color);
+  height: 34px;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 8px;
+}
+
+.profileoptions > div {
+  width: 48px;
+}
+
+.profileoptions > :nth-child(2) {
+  border-left: 1px solid var(--primary-color);
+  border-right: 1px solid var(--primary-color)d7;
+}
+
+.profileoptions > div > img {
+  display: block;
+  margin: auto;
+}
+
+.weworkcontainer {
+  position: relative;
+  margin-top: 15px;
+}
+
+.weworkbg {
+  position: absolute;
+  width: 420px;
+  height: 160px;
+  background: rgba(255, 255, 255, 0.7);
+  top: 50%;
+  left: 50%;
+  margin-left: -210px;
+  margin-top: -80px;
+}
+
+.weworkbg img {
+  display: block;
+  margin: auto;
+  margin-top: 24px;
+}
+
+.weworkbg p {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.workimg {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.wework_bg_options {
+  display: flex;
+  width: 288px;
+  height: 38px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid var(--primary-color);
+  backdrop-filter: blur(5px);
+  position: absolute;
+  top: 20px;
+  border-radius: 5px;
+  left: 50%;
+  margin-left: -160px;
+  padding: 4px 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.work_option_separator {
+  border: 1px solid var(--primary-color);
+  height: 17px;
+}
+
+.workoptions {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  gap: 18px;
+}
+
+.workoptions > :nth-child(2) {
+  border: 1px solid var(--primary-color);
+  height: 25px;
+}
+
+.threedots {
+  display: none;
+}
+
+.messages{
+    position: relative;
+}
+
+.message_number{
+    background-color: var(--color-green);
+    color: var(--color-white);
+    font-size: 9px;
+    text-align: center;
+    border-radius: 50%;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+}
+
+.message_number p{
+    margin-top: 4px;
+}
+/* Responsive for mobile screen */
+
+@media screen and (max-width: 425px) {
+  .profileleft {
+    display: none;
+  }
+
+  .profileoptions {
+    display: none;
+  }
+
+  .threedots {
+    display: block;
+  }
+
+  .textv2 {
+    font-size: 16px;
+  }
+  .workimg {
+    height: 238px;
+  }
+
+  .weworkbg {
+    width: 280px;
+    height: 110px;
+    margin-left: -140px;
+    margin-top: -25px;
+  }
+
+  .weworkbg img {
+    width: 190px;
+    height: 43px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+  }
+
+  .weworkbg p {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+
+  .profile {
+    margin-top: 15px;
+  }
+
+  .weworkcontainer{
+    margin-top: 7px;
+    height: 238px;
+  }
+
+  .workoptions{
+    margin-top: 10px;
+  }
+}
+
+/* Responsive for big screen */
+@media screen and (min-width:768px) and (max-width:1024px)  {
+    .profile{
+        margin-top: 50px;
+    }
+
+    .profileleft{
+      display: none;
+    }
+  
+    .workimg{
+      height: 459px;
+      width: 100%;
+    }
+  
+    .textv1{
+      font-size: 25px;
+    }
+  
+    .skewimgcontainer div img{
+      width: 324px;
+    }
+  
+    .skewimgcontainer div>p{
+      font-size: 30px;
+      width: 86px;
+      height: 58px;
+      margin-left: -65px;
+      margin-top: -29px;
+    }
+  
+    .herimg img {
+      height: 132px;
+    }
+  }
