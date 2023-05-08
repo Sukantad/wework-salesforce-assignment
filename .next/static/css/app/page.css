@@ -1,0 +1,324 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/page.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800;900&display=swap');
+
+
+.page_main__ibFHK {
+  max-width: 1440px;
+  padding: 0 30px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F2FBF9;
+}
+
+@media screen and (max-width: 425px){
+  .page_main__ibFHK{
+    padding: 0px 10px;
+  }
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/styles/Navbar.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+
+.Navbar_navbar__Vu4oQ{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #E9EBEB ;
+  }
+
+  .Navbar_notification__6J1gs{
+    position: relative;
+  }
+
+  .Navbar_notification_count__ocOfj{
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    background-color: #F97777;
+    right: -5px;
+    top: -5px;
+    color: var(--color-white);
+    font-size: 8px;
+  }
+
+  .Navbar_notification_count__ocOfj p{
+    margin-top: 4px;
+    margin-left: 4px;
+    font-weight: 700;
+  }
+  
+  .Navbar_logo__r_5Xc{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .Navbar_logo__r_5Xc>:first-child{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: #04433B;
+  }
+  
+  .Navbar_logo__r_5Xc>:first-child div{
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: var(--color-green);
+    margin: 7px;
+  }
+
+  .Navbar_rightnavlist__PeWsm{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    align-items: center;
+   }
+
+   .Navbar_openmenu__zgjCV{
+    display: none;
+   }
+   
+   /* Responsive for mobile phones */
+   @media screen and (max-width: 425px) {
+    .Navbar_rightnavlist__PeWsm{
+      display: none;
+    }
+    .Navbar_openmenu__zgjCV{
+      display: block;
+    }
+    .Navbar_nav__RFfgR{
+      padding: 10px 0px;
+    }
+   }
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/styles/MobileMenuOptions.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.MobileMenuOptions_menubar__y3ilH{
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    background-color: #F2FBF9;
+    top: 0;
+    left: 0;
+    overflow: none;
+}
+
+.MobileMenuOptions_container__HBXMD{
+    width: 252px;
+    margin: auto;
+    margin-top: 84px;
+}
+
+.MobileMenuOptions_userprofile__b3rrZ{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--color-light-gray) ;
+}
+
+.MobileMenuOptions_user__PBp3r>:first-child {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.MobileMenuOptions_user__PBp3r>:last-child {
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.MobileMenuOptions_menulist__vhiaa{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0px;
+    border-bottom: 1px solid #E9EBEB ;
+}
+
+.MobileMenuOptions_closebutton__sPTwK{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/styles/DealRoom.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.DealRoom_dealroom__UR32v {
+  position: relative;
+}
+
+.DealRoom_deal_header__bgfQs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.DealRoom_deal_header__bgfQs button {
+  background-color: var(--color-green);
+  color: var(--color-white);
+  width: 147px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  font-family:'Proxima Nova';
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.DealRoom_dealRoomImage__XDh9z {
+  margin-top: 20px;
+  width: 100%;
+  position: relative;
+}
+
+.DealRoom_dealRoomImage__XDh9z img {
+  width: 100%;
+}
+
+.DealRoom_skewimgcontainer__dNs_d {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.DealRoom_skewimgcontainer__dNs_d div {
+  position: relative;
+}
+
+
+.DealRoom_textv1__PvmHo {
+  font-family:'Proxima Nova';
+  font-size: 35px;
+  font-weight: 800;
+  color: #04433B;
+}
+
+.DealRoom_skewimgcontainer__dNs_d div>p {
+  width: 280px;
+  position: absolute;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: -56px;
+  margin-left: -140px;
+  left: 50%;
+  top: 50%;
+}
+
+.DealRoom_DealRoomCard__pJ_b_ {
+  display: flex;
+  gap: 15px;
+  padding: 12px 25px;
+  align-items: center;
+  position: absolute;
+  bottom: -50px;
+  left: 20px;
+  border-radius: 20px;
+  background-color: var(--color-white);
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+  .DealRoom_textv1__PvmHo {
+    font-size: 22px;
+  }
+
+  .DealRoom_skewimgcontainer__dNs_d div img {
+    width: 324px;
+  }
+
+  .DealRoom_skewimgcontainer__dNs_d div>p {
+    font-size: 30px;
+    width: 86px;
+    height: 58px;
+    margin-left: -65px;
+    margin-top: -29px;
+  }
+
+  .DealRoom_dealRoomImage__XDh9z {
+    margin-top: 15px;
+  }
+
+  .DealRoom_dealRoomImage__XDh9z img {
+    height: 132px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_ {
+    padding: 5px;
+    border-radius: 10px;
+    bottom: -40px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_>:first-child {
+    width: 56px;
+    height: 56px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .DealRoom_textv1__PvmHo {
+    font-size: 16px;
+  }
+
+  .DealRoom_deal_header__bgfQs button {
+    width: 114px;
+  }
+
+  .DealRoom_skewimgcontainer__dNs_d div>p {
+    width: 85px;
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: -10px;
+    margin-left: -30px;
+  }
+
+  .DealRoom_dealRoomImage__XDh9z {
+    height: 82px;
+    margin-top: 10px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_ {
+    padding: 5px;
+    border-radius: 5px;
+    left: 10px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_>:first-child {
+    width: 36px;
+    height: 36px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_>:nth-child(2) {
+    width: 8px;
+    height: 8px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_>:last-child {
+    width: 46px;
+    height: 46px;
+  }
+
+
+  .DealRoom_skewimgcontainer__dNs_d div img {
+    width: 162px;
+    height: 82px;
+  }
+
+  .DealRoom_DealRoomCard__pJ_b_ {
+    bottom: -30px;
+  }
+
+  .DealRoom_dealRoomImage__XDh9z img {
+    width: 100%;
+    height: 82px;
+  }
+}
