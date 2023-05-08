@@ -3013,6 +3013,13 @@
         "static/css/app/page.css"
       ]
     },
+    "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\styles\\ProjectScope.module.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
     "C:\\Users\\SUKANTA\\Desktop\\wework-salesforce-assignment\\src\\app\\assets\\images\\CloseButton.svg": {
       "id": "(app-client)/./src/app/assets/images/CloseButton.svg",
       "name": "*",

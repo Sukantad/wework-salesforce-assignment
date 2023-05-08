@@ -1,0 +1,163 @@
+.projectscope_title {
+  font-family: 'Proxima Nova';
+  font-size: 25px;
+  font-weight: 700;
+  color: #233735;
+}
+
+.project {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plan {
+  display: flex;
+  font-size: 18px;
+  font-weight: 400;
+  gap: 35px;
+}
+
+.percent {
+  color: #00b686;
+  font-weight: 800;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.leftcircularfilledbox {
+  height: 8px;
+  width: 12px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  background-color: var(--color-green);
+}
+
+.rightcircularfilledbox {
+  height: 8px;
+  width: 12px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background-color: var(--primary-color);
+}
+
+.emptybox {
+  height: 8px;
+  width: 10px;
+  background-color: var(--primary-color);
+}
+
+.tabbox {
+  display: flex;
+  border-bottom: 1px solid #E9EBEB ;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.lefttab {
+  display: flex;
+  gap: 7px;
+}
+
+.lefttab,
+.righttab div > p {
+  font-size: 16px;
+  font-weight: 700;
+  color: #657372;
+}
+
+.tabactive {
+  background-color: var(--color-white);
+  color: var(--color-green);
+}
+
+.righttab > div {
+  padding:12px;
+  border: 1px solid #bdc3c2;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.lefttab > div {
+  padding: 12px;
+  border: 1px solid #bdc3c2;
+  border-radius: 5px 5px 0px 0px;
+}
+/* Responsive for big screen */
+
+@media screen and (min-width:768px) and (max-width:1024px){ 
+  .lefttab div{
+    padding: 12px 10px;
+  } 
+
+  .righttab div{
+    padding: 12px 10px;
+  }
+
+  .box{
+    margin-top: 7px;
+  }
+
+  .tabbox{
+    margin-top: 15px;
+  }
+}
+/* Responsive for mobile screen */
+@media screen and (max-width: 425px) {
+
+  .project{
+    margin-top: 40px;
+  }
+  .righttab {
+    display: none;
+  }
+
+  .lefttab > div {
+    padding: 0 4px;
+    height: 30px;
+  }
+  .lefttab > div > p {
+    padding: 2px;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 5px;
+  }
+
+  .lefttab {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .projectscope_title {
+    font-size: 16px;
+  }
+
+  .plan {
+    display: flex;
+    font-size: 10px;
+  }
+
+  .plan > :first-child {
+    width: 100px;
+    margin-right: -20px;
+  }
+
+  .leftcircularfilledbox,
+  .rightcircularfilledbox,
+  .emptybox {
+    width: 6px;
+    height: 6px;
+  }
+
+  .box {
+    margin-top: 5px;
+  }
+
+  .tabbox {
+    margin-top: 22px;
+  }
+}

@@ -16,7 +16,7 @@
   height: 40px;
   border: none;
   border-radius: 5px;
-  font-family:'Proxima Nova';
+  font-family: 'Proxima Nova';
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 0em;
@@ -46,13 +46,14 @@
 
 
 .textv1 {
-  font-family:'Proxima Nova';
+  font-family: 'Proxima Nova';
   font-size: 35px;
   font-weight: 800;
   color: #04433B;
 }
 
 .skewimgcontainer div>p {
+  font-family: 'Proxima Nova';
   width: 280px;
   position: absolute;
   font-size: 48px;
@@ -74,7 +75,7 @@
   border-radius: 20px;
   background-color: var(--color-white);
 }
-
+/* Responsive for big screen */
 @media screen and (min-width:768px) and (max-width:1024px) {
   .textv1 {
     font-size: 22px;
@@ -111,7 +112,7 @@
     height: 56px;
   }
 }
-
+/* Responsive for mobile screen */
 @media screen and (max-width: 425px) {
   .textv1 {
     font-size: 16px;

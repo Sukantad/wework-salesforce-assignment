@@ -168,7 +168,7 @@
   height: 40px;
   border: none;
   border-radius: 5px;
-  font-family:'Proxima Nova';
+  font-family: 'Proxima Nova';
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 0em;
@@ -198,13 +198,14 @@
 
 
 .DealRoom_textv1__PvmHo {
-  font-family:'Proxima Nova';
+  font-family: 'Proxima Nova';
   font-size: 35px;
   font-weight: 800;
   color: #04433B;
 }
 
 .DealRoom_skewimgcontainer__dNs_d div>p {
+  font-family: 'Proxima Nova';
   width: 280px;
   position: absolute;
   font-size: 48px;
@@ -226,7 +227,7 @@
   border-radius: 20px;
   background-color: var(--color-white);
 }
-
+/* Responsive for big screen */
 @media screen and (min-width:768px) and (max-width:1024px) {
   .DealRoom_textv1__PvmHo {
     font-size: 22px;
@@ -263,7 +264,7 @@
     height: 56px;
   }
 }
-
+/* Responsive for mobile screen */
 @media screen and (max-width: 425px) {
   .DealRoom_textv1__PvmHo {
     font-size: 16px;
@@ -322,3 +323,170 @@
     height: 82px;
   }
 }
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/styles/ProjectScope.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.ProjectScope_projectscope_title__GXXW_ {
+  font-family: 'Proxima Nova';
+  font-size: 25px;
+  font-weight: 700;
+  color: #233735;
+}
+
+.ProjectScope_project__Brs0j {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ProjectScope_plan__sYfXl {
+  display: flex;
+  font-size: 18px;
+  font-weight: 400;
+  gap: 35px;
+}
+
+.ProjectScope_percent__X6kdK {
+  color: #00b686;
+  font-weight: 800;
+}
+
+.ProjectScope_box__JipSL {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.ProjectScope_leftcircularfilledbox__jh67y {
+  height: 8px;
+  width: 12px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  background-color: var(--color-green);
+}
+
+.ProjectScope_rightcircularfilledbox__zKwFd {
+  height: 8px;
+  width: 12px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  background-color: var(--primary-color);
+}
+
+.ProjectScope_emptybox__Ubaam {
+  height: 8px;
+  width: 10px;
+  background-color: var(--primary-color);
+}
+
+.ProjectScope_tabbox__yVw_5 {
+  display: flex;
+  border-bottom: 1px solid #E9EBEB ;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.ProjectScope_lefttab__T_vv1 {
+  display: flex;
+  gap: 7px;
+}
+
+.ProjectScope_lefttab__T_vv1,
+.ProjectScope_righttab__KrfJp div > p {
+  font-size: 16px;
+  font-weight: 700;
+  color: #657372;
+}
+
+.ProjectScope_tabactive__nFNZT {
+  background-color: var(--color-white);
+  color: var(--color-green);
+}
+
+.ProjectScope_righttab__KrfJp > div {
+  padding:12px;
+  border: 1px solid #bdc3c2;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.ProjectScope_lefttab__T_vv1 > div {
+  padding: 12px;
+  border: 1px solid #bdc3c2;
+  border-radius: 5px 5px 0px 0px;
+}
+/* Responsive for big screen */
+
+@media screen and (min-width:768px) and (max-width:1024px){ 
+  .ProjectScope_lefttab__T_vv1 div{
+    padding: 12px 10px;
+  } 
+
+  .ProjectScope_righttab__KrfJp div{
+    padding: 12px 10px;
+  }
+
+  .ProjectScope_box__JipSL{
+    margin-top: 7px;
+  }
+
+  .ProjectScope_tabbox__yVw_5{
+    margin-top: 15px;
+  }
+}
+/* Responsive for mobile screen */
+@media screen and (max-width: 425px) {
+
+  .ProjectScope_project__Brs0j{
+    margin-top: 40px;
+  }
+  .ProjectScope_righttab__KrfJp {
+    display: none;
+  }
+
+  .ProjectScope_lefttab__T_vv1 > div {
+    padding: 0 4px;
+    height: 30px;
+  }
+  .ProjectScope_lefttab__T_vv1 > div > p {
+    padding: 2px;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 5px;
+  }
+
+  .ProjectScope_lefttab__T_vv1 {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .ProjectScope_projectscope_title__GXXW_ {
+    font-size: 16px;
+  }
+
+  .ProjectScope_plan__sYfXl {
+    display: flex;
+    font-size: 10px;
+  }
+
+  .ProjectScope_plan__sYfXl > :first-child {
+    width: 100px;
+    margin-right: -20px;
+  }
+
+  .ProjectScope_leftcircularfilledbox__jh67y,
+  .ProjectScope_rightcircularfilledbox__zKwFd,
+  .ProjectScope_emptybox__Ubaam {
+    width: 6px;
+    height: 6px;
+  }
+
+  .ProjectScope_box__JipSL {
+    margin-top: 5px;
+  }
+
+  .ProjectScope_tabbox__yVw_5 {
+    margin-top: 22px;
+  }
+}
+
